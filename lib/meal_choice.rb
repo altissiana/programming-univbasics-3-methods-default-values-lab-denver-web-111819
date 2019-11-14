@@ -1,4 +1,3 @@
-# Your code here 
 require 'pry'
 
 def meal_choice(veg1, veg2, protein = "meat")
